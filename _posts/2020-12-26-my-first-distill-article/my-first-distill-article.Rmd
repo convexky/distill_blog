@@ -1,0 +1,27 @@
+---
+title: "My First Distill Article"
+description: This is my frist trial of making a Distill article for technical blogging
+author:
+  - name: Kisun Yoon
+    url: https://www.linkedin.com/in/kisun-yoon-quant/
+    affiliation: Wells Fargo
+date: 12-26-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Mountain is mountain. River is river.  
+산은 산이요. 물은 물이로다.  
+
+$$
+\frac{\partial{V}}{\partial{t}}+\frac{1}{2}\sigma^2S^2\frac{\partial^2{V}}{\partial{S}^2}+rS\frac{\partial{V}}{\partial{S}}-rV=0
+$$
+
+

@@ -1,0 +1,11 @@
+---
+title: "About this blog"
+description: |
+  Mathematical Finance and Machine Learning
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+저는 곧 낭랑 48세가 되는 남자사람입니다.
