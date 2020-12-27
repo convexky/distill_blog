@@ -1,9 +1,9 @@
 name: "distill_blog"
 title: "Kisun Yoon's Blog"
-description: |
-  Kisun Yoon's Blog
+description: Kisun Yoon's Blog
 base_url: https://convexky.github.io/
 creative_commons: CC BY-NC
+output_dir: "docs"
 navbar:
   logo:
     image: images/logo.jpg
