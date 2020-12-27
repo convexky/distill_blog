@@ -4,12 +4,10 @@ description: |
   Kisun Yoon's Blog
 base_url: https://convexky.github.io/
 creative_commons: CC BY-NC
-collections:
-  posts:
-    share: [facebook]
-    feed_items_max: false
-output_dir: "docs"
 navbar:
+  logo:
+    image: images/logo.jpg
+    href: https://www.facebook.com/kisun.yoon.quant
   right:
     - text: "Home"
       href: index.html
