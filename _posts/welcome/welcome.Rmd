@@ -10,6 +10,9 @@ date: 12-26-2020
 output:
   distill::distill_article:
     self_contained: false
+categories:
+  - Welcome
+  - English
 ---
 
 ```{r setup, include=FALSE}
